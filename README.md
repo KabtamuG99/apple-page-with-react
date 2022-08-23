@@ -1,4 +1,4 @@
-## Project Title ##
+## Project Title #
 
 
 Apple Website Recreated Using React	Apple Website Recreated Using React
