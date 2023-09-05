@@ -17,6 +17,7 @@ import Error from "./component/Pages/Error/Error"
 import Mac from './component/Pages/Mac/Mac';
 import Watch from './component/Pages/Watch/Watch'
 import Productpage from './component/Pages/Productpage/Productpage'
+import Youtube from './component/Youtube/Youtube';
 
 class App extends Component {
   render(){
